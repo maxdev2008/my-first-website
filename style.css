@@ -1,0 +1,27 @@
+.bubu {
+    border: 3px solid red;
+    height: 50vh;
+    background-color: aqua;
+}
+
+h1 {
+    text-align: center;
+}
+
+.sqaure {
+    height: 300px;
+    width: 300px;
+    background-color: chartreuse;
+    margin: 0 auto;
+    margin-top: 40px;
+    border: 5px solid pink;
+}
+
+#mystery {
+    
+}
+
+
+.iron-man {
+    border: 4px solid red;
+}
