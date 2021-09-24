@@ -17,11 +17,12 @@ h1 {
     border: 5px solid pink;
 }
 
-#mystery {
-    
-}
-
-
 .iron-man {
     border: 4px solid red;
+}
+
+.bubu-down {
+    border: 3px solid orangered;
+    height: 50vh;
+    background-color: black;
 }
