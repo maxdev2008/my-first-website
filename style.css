@@ -28,22 +28,20 @@ h1 {
 }
 
 .img-wrapper {
-    margin: 0 auto;
-    width: fit-content;
+  margin: 0 auto;
+  width: fit-content;
 }
 
 .captain-america {
-    width: 23em;
+  width: 23em;
 }
 /*
-Sprobuj zrobic tak: "zawin" img w znacznik <div>, nastepnie temu <div> daj klase, nazwa dowolna
+Nowe zadanie:
 
-nastepnie w tej klasie niech beda te wartosci:
+- Zmienic tytul strony z "moja strona" na "MCU Avengers"
 
-margin: 0 auto;
-width: fit-content;
+- Niech tytul bedzie wiekszy i wyraznie oddzielony od reszty strony
 
-wtedy obrazek powinien byc posrodku
-
+- Wykasuj calkowicie niebieskie tlo i zielony kwadrat
 
 */
