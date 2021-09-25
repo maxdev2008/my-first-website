@@ -27,6 +27,14 @@ h1 {
   background-color: black;
 }
 
+.img-wrapper {
+    margin: 0 auto;
+    width: fit-content;
+}
+
+.captain-america {
+    width: 23em;
+}
 /*
 Sprobuj zrobic tak: "zawin" img w znacznik <div>, nastepnie temu <div> daj klase, nazwa dowolna
 
